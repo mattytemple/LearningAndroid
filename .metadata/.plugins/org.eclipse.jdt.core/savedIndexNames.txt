@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/Users/matt/Documents/thenewboston/.metadata/.plugins/org.eclipse.jdt.core
+2481244737.index
+1230296026.index
