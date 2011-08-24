@@ -249,3 +249,60 @@ java.lang.IllegalArgumentException: Argument not valid Content is not allowed in
 
 !ENTRY com.android.ide.eclipse.adt 2 0 2011-08-23 16:13:09.087
 !MESSAGE AndroidManifest: Ignoring unknown 'LinearLayou' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:26:47.144
+!MESSAGE AndroidManifest: Ignoring unknown 'l' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:26:48.190
+!MESSAGE AndroidManifest: Ignoring unknown 'L' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:26:48.662
+!MESSAGE AndroidManifest: Ignoring unknown 'Lin' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:26:51.676
+!MESSAGE AndroidManifest: Ignoring unknown 'Linea' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:26:52.928
+!MESSAGE AndroidManifest: Ignoring unknown 'Linear:' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:26:54.741
+!MESSAGE AndroidManifest: Ignoring unknown 'LinearL' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:26:55.192
+!MESSAGE AndroidManifest: Ignoring unknown 'LinearLay' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:26:55.726
+!MESSAGE AndroidManifest: Ignoring unknown 'LinearLayou' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:27:44.677
+!MESSAGE AndroidManifest: Ignoring unknown 'LinearLayoutandroid:orientation' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:30:24.413
+!MESSAGE AndroidManifest: Ignoring unknown 'S' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:32:42.438
+!MESSAGE AndroidManifest: Ignoring unknown 'S' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:32:43.670
+!MESSAGE AndroidManifest: Ignoring unknown 'S' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:32:45.152
+!MESSAGE AndroidManifest: Ignoring unknown 'S' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:32:46.366
+!MESSAGE AndroidManifest: Ignoring unknown 'Scr' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:32:46.704
+!MESSAGE AndroidManifest: Ignoring unknown 'Scrol' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:32:47.366
+!MESSAGE AndroidManifest: Ignoring unknown 'Scrol' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:32:47.669
+!MESSAGE AndroidManifest: Ignoring unknown 'Scr' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:32:47.939
+!MESSAGE AndroidManifest: Ignoring unknown 'S' XML element
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-08-24 15:32:53.738
+!MESSAGE AndroidManifest: Ignoring unknown 'S' XML element
